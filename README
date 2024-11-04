@@ -1,0 +1,19 @@
+# Spotify Data Project
+
+This project focuses on calling Spotify's API to pull user data including songs, activity. It will then pull the data into a DB, in which this can be accessed for data analysis and creation of dashboards.
+
+## Features
+
+--
+
+## Requirements
+
+- Python version: 3.12.7 
+- PIP
+- Flask
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/98jnguyen/Spotify_Project.git
