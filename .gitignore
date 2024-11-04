@@ -1,0 +1,44 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+pyvenv.cfg
+Scripts/
+Lib/
+
+# Flask instance folder and database files
+instance/
+*.db
+
+# Ignore all log files
+*.log
+
+# Docker related files
+docker-compose.override.yml
+*.pid
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Other system files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Environment variable files
+.env
+
+# Ignore Include directory
+Include/
+
+#Ignore key/secret files
+secrets.txt

@@ -1,0 +1,6 @@
+
+
+[STATIC]
+base_account_url = https://accounts.spotify.com/
+base_api_url = https://api.spotify.com/
+redirect_uri = http://127.0.0.1:8080/callback
