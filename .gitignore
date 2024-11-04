@@ -42,3 +42,6 @@ Include/
 
 #Ignore key/secret files
 secrets.txt
+
+#Ignore Test files
+test.py
